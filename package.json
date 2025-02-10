@@ -9,9 +9,9 @@
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",  
-    "homepage": "https://eduloor17.github.io/example"
+    "deploy": "gh-pages -d build" 
   },
+  "homepage": "https://eduloor17.github.io/example",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eduloor17/example.git"
